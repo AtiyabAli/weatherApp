@@ -12,6 +12,7 @@ import humidity_icon from '../Assets/humidity.png';
 
 
 const WeatherApp = () => {
+    let api_key = '4328b6f2ddeec9208312f3249ce58865'
     return (
         <div className='container'>
 
